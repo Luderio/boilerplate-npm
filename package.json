@@ -10,5 +10,15 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"author": {
+		"author": "Luderio Rubis Sanchez Jr."
+	},
+  "projectInformation": {
+    "description": "This is my first time learning Back End Development and APIs",
+  "keywords": ["first", "Back End Development and APIs", "freecodecamp"],
+    "license": "This project is open for everyone. However, please do not modify the project's structure too drasticaly."
+  },
+  "version": "1.0.0"
+  
 }
